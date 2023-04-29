@@ -1,0 +1,10 @@
+
+h1 { 
+    font-size: 20; 
+    /* Usar en 20px para titulos */
+    font-family: Helvetica
+}
+ 
+body { 
+     background-color: black; color: white;
+}
